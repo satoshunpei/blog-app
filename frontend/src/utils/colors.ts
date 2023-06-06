@@ -1,0 +1,10 @@
+export const red = "#bd2020";
+export const lightRed = "red";
+export const green = "white";
+export const lightGreen = "white";
+export const blue = "#4C4C9D";
+export const NavBlack = "rgb(10,10,10)";
+export const LightGray = "LightGray";
+export const Gray = "rgb(40,40,40)";
+export const DarkGray = "#ffffff";
+export const White = "Gray";
